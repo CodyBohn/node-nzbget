@@ -1,0 +1,29 @@
+{
+  "name": "node-nzbget",
+  "description": "Node interface for NzbGet",
+  "author": {
+    "name": "Mads Lundt",
+    "email": "madslundt@live.dk"
+  },
+  "keywords": [
+    "nzbget",
+    "download",
+    "nzb",
+    "api"
+  ],
+  "version": "0.0.3",
+  "main": "lib/nzbget.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:madslundt/node-nzbget.git"
+  },
+  "homepage": "https://github.com/madslundt/node-get",
+  "dependencies": {
+  	"q": "1.2.0",
+    "request": "2.53.0"
+  },
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/madslundt/node-get/issues"
+  },
+}
