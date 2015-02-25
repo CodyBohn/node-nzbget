@@ -1,6 +1,6 @@
-node-couchpotato
+node-nzbget
 ================
-Node interface for [CouchPotato](http://www.couchpota.to/).
+Node interface for [NzbGet](http://nzbget.net).
 
 **Not properly tested yet**
 
@@ -35,4 +35,4 @@ ng.listfiles().then(function(res) {
 ```
 
 For now there only exists these functions.
-For more information about the API calls, [click here](https://github.com/Sonarr/Sonarr/wiki/API)
+For more information about the API calls, [click here](http://nzbget.net/RPC_API_reference)
